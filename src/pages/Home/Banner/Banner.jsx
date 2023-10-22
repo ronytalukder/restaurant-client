@@ -57,33 +57,3 @@ const Banner = () => {
 export default Banner;
 
 // module 74 -3
-// module 74 -3
-// module 74 -3
-// module 74 -3
-// module 74 -3
-// module 74 -3
-// module 74 -3
-// module 74 -3
-// module 74 -3
-// module 74 -3
-// module 74 -3
-// module 74 -3
-// module 74 -3
-// module 74 -3
-// module 74 -3
-// module 74 -3
-// module 74 -3
-// module 74 -3
-// module 74 -3
-// module 74 -3
-// module 74 -3
-// module 74 -3
-// module 74 -3
-// module 74 -3
-// module 74 -3 jskldfhklsdhfklss ldhsfklshdklf 
-// module 74 -3 jskldfhklsdhfklss ldhsfklshdklf 
-// module 74 -3 jskldfhklsdhfklss ldhsfklshdklf 
-// module 74 -3 jskldfhklsdhfklss ldhsfklshdklf 
-// module 74 -3 jskldfhklsdhfklss ldhsfklshdklf 
-// module 74 -3 jskldfhklsdhfklss ldhsfklshdklf 
-// module 74 -3 jskldfhklsdhfklss ldhsfklshdklf 
