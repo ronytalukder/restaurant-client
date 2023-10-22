@@ -5,9 +5,9 @@ import PopularMenu from "../PopularMenu/PopularMenu";
 const Home = () => {
     return (
         <div>
+            {/* <Category/>  
+            <PopularMenu/> */}
             <Banner/>
-            <Category/>  
-            <PopularMenu/>
         </div>
     );
 };

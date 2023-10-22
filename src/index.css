@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.banner{
+    width:auto;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+.banner .item{
+    width: 45%;
+    background-color: red;
+    margin-bottom: 20px;
+}
+
+.banner .item:first-child .item_content{
+    background-color: blue !important;
+}
