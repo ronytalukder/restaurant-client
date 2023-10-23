@@ -5,8 +5,8 @@ import PopularMenu from "../PopularMenu/PopularMenu";
 const Home = () => {
     return (
         <div>
-            {/* <Category/>  
-            <PopularMenu/> */}
+            <Category/>  
+            <PopularMenu/>
             <Banner/>
         </div>
     );
@@ -18,4 +18,12 @@ export default Home;
 // video 74-7
 // video 74-7
 // video 74-7
-// video 74-7 
+// video 74-7
+// video 74-7
+// video 74-7
+// video 74-7
+// video 74-7
+// video 74-7
+// video 74-7
+// video 74-7
+
