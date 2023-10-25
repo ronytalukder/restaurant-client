@@ -27,6 +27,9 @@ const PopularMenu = () => {
               ))
             }
       </div>
+      <div className="text-center">
+            <button className="btn btn-outline">View Full Menu</button>
+      </div>
     </section>
   );
 };

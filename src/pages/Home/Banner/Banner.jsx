@@ -8,7 +8,7 @@ const Banner = () => {
 
 
   return (
-    <section className="py-[200px] container mx-auto">
+    <section className="container mx-auto">
     
       { <div>
          <Carousel>
